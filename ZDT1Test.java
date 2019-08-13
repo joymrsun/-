@@ -7,8 +7,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.uma.jmetal.problem.multiobjective.zdt.ZDT1;
-import org.uma.jmetal.solution.DoubleSolution;
+import ZDT1;
 
 public class ZDT1Test {
 
